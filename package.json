@@ -1,0 +1,1 @@
+   { "name": "siakad-cloud-uts", "scripts": { "test": "node --test" } }
